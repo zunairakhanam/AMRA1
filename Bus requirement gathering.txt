@@ -1,0 +1,5 @@
+Clients often need help or feedback, which means that your customer service and 24/7 support (if any) should know each user’s history of bookings, payment options, and other personal details to provide instant and useful feedback that solves their problem.
+
+All this becomes possible by implementing an intuitive sign-in/sign-up bus reservation system functionality complemented by a one-click social login feature.
+
+According to the Smart Insights Report, the social log-in functionality boosts the click-to-registration rate up to 50%. Moreover, over 65% of users come back to a website in case they are welcomed by a social login feature.
